@@ -1866,10 +1866,10 @@
     semver "^5.5.0"
     string.prototype.padstart "^3.0.0"
 
-"@vue/cli-test-utils@^3.0.1":
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/@vue/cli-test-utils/-/cli-test-utils-3.4.0.tgz#a2ce8164f692da27458e21d1eeaa103732d6219d"
-  integrity sha512-DP6VuG6Rrn2ENPvTD9ApgDnLvHS0ioeTCa6zAp4iGdfCuhIzsp0OfF+HQI85NPqEklOBL7LMQyLFDDplfA6ozA==
+"@vue/cli-test-utils@^3.4.1":
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/@vue/cli-test-utils/-/cli-test-utils-3.4.1.tgz#dae4b92b43ba805d2bc9ff823b2e00e90ee3a6bb"
+  integrity sha512-b9ThPadZmAFhnstxCM1qxiEOyBl2aZOSQoO3UNedrxlbgHufg++zPnYGXDxwyyMosA8yK0rEdFnA1qPr7fvE5Q==
   dependencies:
     execa "^1.0.0"
     fs-extra "^7.0.1"
